@@ -62,12 +62,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
-![Q(UT$JFV(4B5LJ2SO2G5{}M](https://github.com/lvdongupc/calculator/assets/96762254/3b56fd04-301c-4062-9318-e6df3e6a9cc3)
-yxc的react框架，但犹豫django后端的api跨领域，我只实现了前端。
-
-
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+![Q(UT$JFV(4B5LJ2SO2G5{}M](https://github.com/lvdongupc/calculator/assets/96762254/3b56fd04-301c-4062-9318-e6df3e6a9cc3)
+yxc的react框架，但犹豫django后端的api跨领域，我只实现了前端。
+
+
+
