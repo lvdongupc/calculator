@@ -71,7 +71,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 ![Q(UT$JFV(4B5LJ2SO2G5{}M](https://github.com/lvdongupc/calculator/assets/96762254/3b56fd04-301c-4062-9318-e6df3e6a9cc3)
-yxc的react框架，但犹豫django后端的api跨领域，我只实现了前端。
+yxc的react框架，但由于django后端的api跨领域，我只实现了前端。
 
 
 
